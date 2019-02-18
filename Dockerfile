@@ -1,5 +1,5 @@
 # enniu_maven
-FROM jiangliao/swarm-client-slave:laster 
+FROM jiangliao/swarm-client-slave:latest 
 MAINTAINER jiangliao jiang.liao080@gmail.com>
 
 ARG MAVEN_VERSION=3.6.0
